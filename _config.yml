@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Caio Ramos Casimiro
 locale: en_US
-description: Describe your website here.
+description: I write about machine learning, software development and related stuff.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://casimiro.github.io
 
 # Jekyll configuration
 
@@ -36,15 +36,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Caio Ramos Casimiro
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: caiorcasimiro@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: caiorcasimiro
   facebook: #username
-  github: #username
+  github: casimiro
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: https://www.linkedin.com/in/caio-casimiro-b0085224/
   instagram: #username
   flickr: #username
   tumblr: #username
