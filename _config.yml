@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Caio Ramos Casimiro
-  avatar: bio-photo.jpg
+  avatar: profile-pic.jpeg
   email: caiorcasimiro@gmail.com
   disqus-shortname:
   twitter: caiorcasimiro
